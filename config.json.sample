@@ -1,5 +1,5 @@
 {
-    "poolHost": "infinity.ultranote.org",
+    "poolHost": "pool_host_name",
 
     "coin": "ultranotei",
     "symbol": "XUNI",
@@ -127,9 +127,9 @@
         "password": "Pool_Password",
         "ssl": true,
         "sslPort": 8119,
-        "sslCert": "/home/neo/ssl/STAR_ultranote_org.crt",
-        "sslKey": "/home/neo/ssl/ultranote_org.key",
-        "sslCA": "/home/neo/ssl/STAR_ultranote_org.ca-bundle",
+        "sslCert": "/path/to/ssl.crt",
+        "sslKey": "/path/to/ssl/ssl.key",
+        "sslCA": "/path/to/ssl/ssl-bundle",
         "trustProxyIP": false
     },
 
