@@ -94,7 +94,7 @@
 
     "payments": {
         "enabled": true,
-        "interval": 900,
+        "interval": 1800,
         "maxAddresses": 50,
         "mixin": 2,
         "priority": 0,
@@ -110,7 +110,7 @@
     "blockUnlocker": {
         "enabled": true,
         "interval": 50,
-        "depth": 60,
+        "depth": 10,
         "poolFee": 0.25,
         "devDonation": 0.0,
         "networkFee": 0.0
