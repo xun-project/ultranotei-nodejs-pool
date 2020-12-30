@@ -9,7 +9,7 @@
 
     "daemonType": "forknote",
     "cnAlgorithm": "cryptonight",
-    "cnVariant": 11,
+    "cnVariant": 17,
     "cnBlobType": 0,
 
     "logging": {
