@@ -7,7 +7,7 @@
     "coinDecimalPlaces": 6,
     "coinDifficultyTarget": 120,
 
-    "daemonType": "forknote",
+    "daemonType": "bytecoin",
     "cnAlgorithm": "cryptonight",
     "cnVariant": 17,
     "cnBlobType": 0,
